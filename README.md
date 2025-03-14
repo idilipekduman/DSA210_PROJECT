@@ -1,7 +1,15 @@
-# DSA210_PROJECT PROPOSAL
-## Motivation
-I chose this project to apply the data science techniques I have learned to predict wine quality. The dataset contains information about the properties of wines and their quality scores. This will allow me to analyze the relationship between the chemical features of wines and their quality. In this project, I will work through data collection, cleaning, analysis, visualization, and presentation of insights.
-## Data Source
-The dataset I will use is the [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality), which includes data on the chemical properties of wine and their quality scores. I will obtain the data from the UCI Machine Learning Repository.
-## Data Collection Plan
-I will download the dataset from the UCI Machine Learning Repository. Afterwards, I will perform data cleaning and preprocessing steps. Then, I will move on to analysis and modeling to predict the quality scores of the wines.
+# DSA210 Project Proposal: Predicting 2024 Turkish Local Election Results Using Machine Learning
+## Overview
+This project aims to predict the 2024 Turkish local election results using GDP data and machine learning.
+## Data
+GDP per province (2009-2024) as an economic indicator.
+Election results (2009, 2014, 2019, 2024) grouped into:
+-Conservative Right Bloc: AKP, MHP, Yeniden Refah
+-Centrist Bloc: CHP, İYİ Parti
+-Left Bloc: HDP/Yeşil Sol
+## Methodology
+Train a machine learning model using GDP (2009, 2014, 2019) to predict 2024 results.
+Compare predictions with actual 2024 results to assess accuracy and correlation.
+## Expected Outcome
+Insights into the link between GDP and elections.
+Evaluation of ML effectiveness in predicting results.
